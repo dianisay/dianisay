@@ -1,4 +1,4 @@
-# Hi there, I'm Diana 👋  
+# Hi! I'm Diana
 
 **Research and Development Engineer | Robotics • Automation • 3D Printing Systems • Biomedical Engineering**
 
