@@ -1,4 +1,4 @@
-# Hi! I'm Diana
+# Hi! I'm Diana Roldan
 
 **Research and Development Engineer | Robotics • Automation • 3D Printing Systems • Biomedical Engineering**
 
