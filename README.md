@@ -7,7 +7,7 @@ Accomplished engineer with a track record in designing and developing advanced 3
 ---
 
 ## 🛠️ Technical Skills
-- **Programming & Scripting:** Python, VB.NET, SQL  
+- **Programming & Scripting:** Python, VB.NET, SQL, MatLab
 - **Robotics & Automation:** 8DOF robotic arms, ROS, Raspberry Pi integration  
 - **Cloud & DevOps:** Amazon Web Services (AWS)  
 - **Data & Vision:** Computer vision integration, process optimization  
