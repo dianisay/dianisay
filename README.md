@@ -59,10 +59,10 @@ R&D engineer with expertise in computer vision, deep learning, and intelligent a
 
 | Project | Domain | Highlight |
 |:--------|:-------|:----------|
-| **Robotic Arm Skin Bioprinter** | Computer Vision | Robotics | Vision-controlled bioprinting system, **97% precision**. 2 published papers. |
-| **AI-Driven Inventory for Nanostores** | Computer Vision | Ops Research | MIT LIFT Lab | image-recognition inventory system for informal retail. |
-| **CNN 3D Motion Planning for Bioprinters** | CV | Deep Learning | Robotics | Closed-loop CNN system for adaptive 3D toolpaths on non-planar surfaces. *(In development)* |
-| **Robotic Arm Food Bioprinter** | Computer Vision | Robotics | 8-DOF vision-controlled system, conformal trajectory generation. Paper under review. |
+| **Robotic Arm Skin Bioprinter** | Computer Vision - Robotics | Vision-controlled bioprinting system, **97% precision**. 2 published papers. |
+| **AI-Driven Inventory for Nanostores** | Computer Vision - Ops Research - MIT LIFT Lab | image-recognition inventory system for informal retail. |
+| **CNN 3D Motion Planning for Bioprinters** | CV - Deep Learning - Robotics | Closed-loop CNN system for adaptive 3D toolpaths on non-planar surfaces. *(In development)* |
+| **Robotic Arm Food Bioprinter** | Computer Vision - Robotics | 8-DOF vision-controlled system, conformal trajectory generation. Paper under review. |
 
 ---
 
