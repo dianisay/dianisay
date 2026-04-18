@@ -75,11 +75,3 @@ R&D engineer with expertise in computer vision, deep learning, and intelligent a
 ??? **Generation Leader** | Tecnol|gico de Monterrey *(Dec 2022)*
 
 ---
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dianisay&show_icons=true&title_color=14708A&icon_color=14708A&text_color=4a4a4a&bg_color=ffffff&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dianisay&layout=compact&title_color=14708A&text_color=4a4a4a&bg_color=ffffff&hide_border=true)
-
-</div>
