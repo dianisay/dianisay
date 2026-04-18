@@ -2,7 +2,7 @@
 
 # Diana Roldan
 
-**R&D Engineer � Computer Vision � Deep Learning � Intelligent Automation**
+**R&D Engineer | Computer Vision | Deep Learning | Intelligent Automation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dianisay-14708A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dianisay)
 [![Email](https://img.shields.io/badge/Email-diana.roldan2648-14708A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diana.roldan2648@gmail.com)
@@ -11,7 +11,7 @@
 
 ---
 
-R&D engineer with expertise in computer vision, deep learning, and intelligent automation. Background spanning biomedical engineering and data science, with a track record of translating complex technical challenges into working systems � from patented prosthetic devices to cloud-deployed deepfake detection. Published researcher and international competition winner.
+R&D engineer with expertise in computer vision, deep learning, and intelligent automation. Background spanning biomedical engineering and data science, with a track record of translating complex technical challenges into working systems | from patented prosthetic devices to cloud-deployed deepfake detection. Published researcher and international competition winner.
 
 ---
 
@@ -59,20 +59,20 @@ R&D engineer with expertise in computer vision, deep learning, and intelligent a
 
 | Project | Domain | Highlight |
 |:--------|:-------|:----------|
-| **Robotic Arm Skin Bioprinter** | Computer Vision � Robotics | Vision-controlled bioprinting system, **97% precision**. 2 published papers. |
-| **AI-Driven Inventory for Nanostores** | Computer Vision � Ops Research | MIT LIFT Lab � image-recognition inventory system for informal retail. |
-| **CNN 3D Motion Planning for Bioprinters** | CV � Deep Learning � Robotics | Closed-loop CNN system for adaptive 3D toolpaths on non-planar surfaces. *(In development)* |
-| **Robotic Arm Food Bioprinter** | Computer Vision � Robotics | 8-DOF vision-controlled system, conformal trajectory generation. Paper under review. |
+| **Robotic Arm Skin Bioprinter** | Computer Vision | Robotics | Vision-controlled bioprinting system, **97% precision**. 2 published papers. |
+| **AI-Driven Inventory for Nanostores** | Computer Vision | Ops Research | MIT LIFT Lab | image-recognition inventory system for informal retail. |
+| **CNN 3D Motion Planning for Bioprinters** | CV | Deep Learning | Robotics | Closed-loop CNN system for adaptive 3D toolpaths on non-planar surfaces. *(In development)* |
+| **Robotic Arm Food Bioprinter** | Computer Vision | Robotics | 8-DOF vision-controlled system, conformal trajectory generation. Paper under review. |
 
 ---
 
 ### Awards
 
-?? **1st Place** � International Innovation Competition for Advanced Materials *(Oct 2024)*
+?? **1st Place** | International Innovation Competition for Advanced Materials *(Oct 2024)*
 <br>
-?? **Academic Talent Scholarship** � Tecnol�gico de Monterrey & CONACYT *(2023 & 2025)*
+?? **Academic Talent Scholarship** | Tecnol|gico de Monterrey & CONACYT *(2023 & 2025)*
 <br>
-??? **Generation Leader** � Tecnol�gico de Monterrey *(Dec 2022)*
+??? **Generation Leader** | Tecnol|gico de Monterrey *(Dec 2022)*
 
 ---
 
