@@ -68,10 +68,10 @@ R&D engineer with expertise in computer vision, deep learning, and intelligent a
 
 ### Awards
 
-?? **1st Place** | International Innovation Competition for Advanced Materials *(Oct 2024)*
+ **1st Place** | International Innovation Competition for Advanced Materials *(Oct 2024)*
 <br>
-?? **Academic Talent Scholarship** | Tecnol|gico de Monterrey & CONACYT *(2023 & 2025)*
+ **Academic Talent Scholarship** | Tecnol|gico de Monterrey & CONACYT *(2023 & 2025)*
 <br>
-??? **Generation Leader** | Tecnol|gico de Monterrey *(Dec 2022)*
+ **Generation Leader** | Tecnol|gico de Monterrey *(Dec 2022)*
 
 ---
