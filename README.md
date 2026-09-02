@@ -2,7 +2,7 @@
 
 # Diana Roldan
 
-**R&D Engineer | Computer Vision | Deep Learning | Intelligent Automation**
+**R&D Engineer | Computer Vision | Deep Learning | Intelligent Automation | Neuromorphic Computing**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dianisay-14708A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dianisay)
 [![Email](https://img.shields.io/badge/Email-diana.roldan2648-14708A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diana.roldan2648@gmail.com)
@@ -17,8 +17,7 @@ R&D engineer with expertise in computer vision, deep learning, and intelligent a
 
 ### What I'm up to
 
-- Building custom ERP solutions at **Global Shop Solutions**
-- Completing a **Data Science Bootcamp** at Triple Ten (Computer Vision, ML, Statistical Analysis)
+- Neuromorphic Systems Developer at Intel.
 - Engineering a **CNN-based closed-loop control system** for real-time robotic bioprinting *(in development)*
 
 ---
