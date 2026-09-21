@@ -4,7 +4,7 @@
 
 **R&D Engineer | Computer Vision | Deep Learning | Intelligent Automation | Neuromorphic Computing**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dianisay-14708A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dianisay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diana Paola Ayala Roldan-14708A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dianisay)
 [![Email](https://img.shields.io/badge/Email-diana.roldan2648-14708A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diana.roldan2648@gmail.com)
 
 </div>
