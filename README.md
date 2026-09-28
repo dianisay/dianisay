@@ -1,10 +1,10 @@
 <div align="center">
 
-# Diana Roldan
+# Hello World! I'm Diana Paola Ayala Roldán 👋
 
 **R&D Engineer | Computer Vision | Deep Learning | Intelligent Automation | Neuromorphic Computing**
 
-# Hello World! I'm Diana Paola Ayala Roldán 👋
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dianisay-14708A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dianisay)
 [![Email](https://img.shields.io/badge/Email-diana.roldan2648-14708A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diana.roldan2648@gmail.com)
